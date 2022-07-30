@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Marina Sanchez del Villar/ Site Title"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Marina Sanchez del Villar"
 description              : &description "personal description"
