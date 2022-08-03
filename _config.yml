@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Marina Sanchez del Villar"
 title_separator          : "-"
 name                     : &name "Marina Sanchez del Villar"
 description              : &description "personal description"
@@ -85,8 +85,8 @@ author:
   bio              : "Ph.D. Candidate in Economics"
   location         : "Florence, IT"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
