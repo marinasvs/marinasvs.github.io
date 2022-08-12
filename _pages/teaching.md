@@ -9,7 +9,7 @@ permalink: /teaching/
 
 ### Guest Co-Lecturer, Applied Contemporary Economics (MSc.)
 *Ecole des Hautes Etudes Commerciales de Paris (HEC)*, March 2018
-
-### Teaching Assisntant, Macroeconomics (Undergraduate)
+ 
+### Teaching Assistant, Macroeconomics (Undergraduate)
 *Université Toulouse 1 Capitole*, Spring 2017
 

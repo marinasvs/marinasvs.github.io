@@ -15,6 +15,7 @@ I study how technology and innovation affect the financial markets using industr
 
 From April to September 2022, I am visiting the Bank for International Settlements ([BIS](https://bis.org)) as a Ph.D. Fellow.
 
+You can reach me at [marina.sanchez@eui.eu](mailto: marina.sanchez@eui.eu)
 ======
 
 This website is a work in progress. 
