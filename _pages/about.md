@@ -17,6 +17,10 @@ From April to September 2022, I am visiting the Bank for International Settlemen
 
 You can reach me at [marina.sanchez@eui.eu](mailto: marina.sanchez@eui.eu)
 
-======
 
-This website is a work in progress. 
+
+**Some news:**
+
+* I will be presenting my paper _Technology and Credit Market Information Asymmetries_ at the [Jornadas de Economia Industrial](http://asesec.org/jornadas_economia_industrial/) in Gran Canaria on September 2nd.
+
+* I will be participating in the Naples School of Economics and Finance PhD workshop with my paper _Technology and Credit Market Information Asymmetries_ on September 22nd. 
