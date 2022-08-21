@@ -8,8 +8,7 @@ author_profile: true
 
 ### Technology and Credit Market Information Asymmetries
 
-This project explores the impact that technologically oriented lenders have on the credit market information asymmetries. New to other studies in the literature, I employ a differentiated products approach, where differentiation comes on the basis of a preference for lower monitoring. The preference for lower monitoring decreases the informational advantage coming from better screening and implies that the more technologically enabled player may not always have a market presence if its technology is too intrusive.
-
+This paper studies how technological improvements shape credit market outcomes, focusing on how technology helps lenders alleviate two information asymmetries: adverse selection and moral hazard. I model an economy with asymmetric information about borrowers' creditworthiness and about borrowers’ effort to repay a loan. Tech-lenders have a better technology for screening creditworthiness and for monitoring effort. Borrowers, however, have a preference for lenders that monitor less. The trade-off I explore is the following: for the same interest rate, borrowers prefer to contract with the traditional bank, since it monitors them less; but thanks to the screening asymmetry, the tech-lender can sometimes offer lower interest rates. Borrowers' preference for a less intrusive monitor determines which market structure arises in equilibrium. Furthermore, I derive bounds and provide comparative statics to understand how these two forces impact credit market outcomes.
 
 ### Technology and privacy in credit markets
 with [Sebastian Doerr](https://sites.google.com/view/sdoerr/home) and [Leonardo Gambacorta](https://www.bis.org/author/leonardo_gambacorta.htm)
