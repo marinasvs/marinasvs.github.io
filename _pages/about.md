@@ -22,6 +22,6 @@ You can reach me at [marina.sanchez@eui.eu](mailto: marina.sanchez@eui.eu)
 **Some news:**
 
 
-* I will be participating in the Naples School of Economics and Finance Ph.D. workshop with my paper _Technology and Credit Market Information Asymmetries_ on September 22nd. 
+* I am participating in the [Naples School of Economics and Finance Ph.D. workshop](https://csef.it/Event/the-1st-naples-school-of-economics-and-finance-phd-and-post-doctoral-workshop/) with my paper _Technology and Credit Market Information Asymmetries_ on September 22nd. 
 
-* I will be presenting my paper _Technology and Credit Market Information Asymmetries_ at the [Symposium of the Spanish Economic Association](http://www.asesec.org/simposio/) in Valencia in December.
+* I will present my paper _Technology and Credit Market Information Asymmetries_ at the [Symposium of the Spanish Economic Association](http://www.asesec.org/simposio/) in Valencia in December.
