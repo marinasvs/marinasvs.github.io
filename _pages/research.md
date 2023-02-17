@@ -6,14 +6,13 @@ author_profile: true
 
 
 ### Technology and credit market information asymmetries
-> This project explores the impact that technologically oriented lenders have on credit market information asymmetries. New to other studies in the literature, I focus on both adverse selection and moral hazard. The fintechs are better at screening, diminishing adverse selection, while traditional banks remain better at monitoring borrowers. The importance of moral hazard decreases the informational advantage coming from better screening and implies that the more technologically enabled player may not always have a market presence if it cannot properly discipline the borrower. 
+<details>
+      <summary>Abstract: (click) </summary>
+      > This project explores the impact that technologically oriented lenders have on credit market information asymmetries. New to other studies in the literature, I focus on both adverse selection and moral hazard. The fintechs are better at screening, diminishing adverse selection, while traditional banks remain better at monitoring borrowers. The importance of moral hazard decreases the informational advantage coming from better screening and implies that the more technologically enabled player may not always have a market presence if it cannot properly discipline the borrower. 
+</details>
 
 _Presentations: Symposium of the Spanish Economic Association (Valencia, 2022), Naples School of Economics and Finance workshop (Naples, 2022), Jornadas de Economia Industrial (Gran Canaria, 2022), Finance Forum PhD session (Santiago de Compostela, 2022), Young Economist Seminar at the Dubrovnik Economic Forum (Dubrovnik, 2022), Bank for International Settlements research meeting (Basel, 2022)._
 
-{% include base_path %}
-{% for post in site.papers reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 ### Technology and privacy regulation in loan markets
 with [Sebastian Doerr](https://sites.google.com/view/sdoerr/home), [Leonardo Gambacorta](https://www.bis.org/author/leonardo_gambacorta.htm) and [Luigi Guiso](https://www.eief.it/eief/index.php/people/faculty-az?id=172)

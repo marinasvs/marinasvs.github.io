@@ -16,3 +16,9 @@ I study how technology and innovation affect the financial markets using industr
 From April to December 2022, I visited the Bank for International Settlements ([BIS](https://bis.org)) as a Ph.D. Fellow. I contributed to the work of the Innovation and Digital Economy Unit and of the Innovation Hub. 
 
 You can reach me at [marina.sanchez@eui.eu](mailto: marina.sanchez@eui.eu)
+
+**Some news:**
+
+* Our paper _Technology and Privacy Regulation in Loan Markets_ has been selected for presentation at the [14th annual UBC Bureau of Asset Management Winter Finance Conference][ubclink] in British Columbia on February 24th - 26th. 
+
+[ubclink]: https://www.sauder.ubc.ca/thought-leadership/divisions/finance/conferences/winter-finance-conference
