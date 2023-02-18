@@ -7,7 +7,7 @@ main:
     url: /teaching/    
     
   - title: "CV"
-    url: /files/MarinaSanchezVillar_CV.pdf{target="_blank"}
+    url: /files/MarinaSanchezVillar_CV.pdf
 
   - title: "Discussions"
     url: /discussions/
