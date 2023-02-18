@@ -15,7 +15,7 @@ _Presentations: Symposium of the Spanish Economic Association (Valencia, 2022), 
 
 
 ### Privacy regulation and fintech lending
-with [Sebastian Doerr](https://sites.google.com/view/sdoerr/home), [Leonardo Gambacorta](https://www.bis.org/author/leonardo_gambacorta.htm) and [Luigi Guiso](https://www.eief.it/eief/index.php/people/faculty-az?id=172)
+with [Sebastian Doerr][doerrlink]{:target="_blank" rel="noopener"}, [Leonardo Gambacorta][gambacortalink]{:target="_blank" rel="noopener"} and [Luigi Guiso][guisolink]{:target="_blank" rel="noopener"}
 
 <details>
 <summary>Abstract: </summary>
@@ -26,5 +26,12 @@ _Presentations: HEC Paris Conference on Banking in the Age of Challenges (Paris,
 
 
 ### Assessing the impact of roundups on savings
-with [Noriko Amano-Patino](https://sites.google.com/view/noriko-amanopatino/home) and [Sam Jindani](https://samjindani.com/)
+with [Noriko Amano-Patino][amanolink]{:target="_blank" rel="noopener"} and [Sam Jindani][jindanilink]{:target="_blank" rel="noopener"}
 
+
+
+[doerrlink]: https://sites.google.com/view/sdoerr/home
+[gambacortalink]: https://www.bis.org/author/leonardo_gambacorta.htm
+[guisolink]: https://www.eief.it/eief/index.php/people/faculty-az?id=172
+[amanolink]: https://sites.google.com/view/noriko-amanopatino/home
+[jindanilink]: https://samjindani.com/
