@@ -11,7 +11,7 @@ Welcome to my website!
 
 I am a Ph.D. candidate in Economics at the European University Institute ([EUI][euilink]{:target="_blank" rel="noopener"}).
 
-I study how technology and innovation affect the financial markets using industrial organization tools. My supervisors are [Giacomo Calzolari][giacomolink]{:target="_blank" rel="noopener"} and [Thomas Crossley][thomaslink]{:target="_blank" rel="noopener"}. 
+I study how technology and innovation affect the financial markets using industrial organization tools. My supervisors are [Giacomo Calzolari][giacomolink]{:target="_blank" rel="noopener"} and [Thomas Crossley][thomaslink]. 
 
 From April to December 2022, I visited the Bank for International Settlements ([BIS][bislink]{:target="_blank" rel="noopener"}) as a Ph.D. Fellow. I contributed to the work of the Innovation and Digital Economy Unit and of the [Innovation Hub][bisihlink]{:target="_blank" rel="noopener"}. 
 
