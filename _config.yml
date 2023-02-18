@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         : "marinasvs"
   orcid            : "http://orcid.org/0000-0001-9170-924X"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "marinasvs"
@@ -163,7 +163,7 @@ incremental: false
 
 # Markdown Processing
 kramdown:
-  input: GFM
+  input: Kramdown
   hard_wrap: false
   auto_ids: true
   footnote_nr: 1
