@@ -14,7 +14,7 @@ author_profile: true
 _Presentations: Symposium of the Spanish Economic Association (Valencia, 2022), Naples School of Economics and Finance workshop (Naples, 2022), Jornadas de Economia Industrial (Gran Canaria, 2022), Finance Forum PhD session (Santiago de Compostela, 2022), Young Economist Seminar at the Dubrovnik Economic Forum (Dubrovnik, 2022), Bank for International Settlements research meeting (Basel, 2022)._
 
 
-### Technology and privacy regulation in loan markets
+### Privacy regulation and fintech lending
 with [Sebastian Doerr](https://sites.google.com/view/sdoerr/home), [Leonardo Gambacorta](https://www.bis.org/author/leonardo_gambacorta.htm) and [Luigi Guiso](https://www.eief.it/eief/index.php/people/faculty-az?id=172)
 
 <details>
