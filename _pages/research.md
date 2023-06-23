@@ -21,10 +21,10 @@ with [Sebastian Doerr][doerrlink]{:target="_blank" rel="noopener"}, [Leonardo Ga
 
 <details>
 <summary>Abstract </summary>
-> Many regulators have introduced privacy protection legislation to accommodate consumers' demand for privacy. To investigate how such regulation shapes loan market outcomes, we build a parsimonious screening model with banks and fintechs. Fintechs have a superior technology to screen with data, but consumers dislike sharing their data with fintechs. Exploiting the introduction of the California Consumer Privacy Act we provide empirical support for the predictions of the model in the US mortgage market. Privacy protection regulation leads to an increase in loan applications with fintechs and lower interest rates on loans originated by fintechs. Fintechs also make greater use of non-traditional data to improve screening and deny more applications. Results are robust to the inclusion of granular time-varying fixed effects and hold within census tracts at the border of California with its neighboring states.
+This paper studies how the California Consumer Privacy Act (CCPA), which grants users control over data and mitigates concerns over sharing them, affects banks and fintechs in the mortgage market. Using a difference-in-differences strategy comparing counties along the California border, we establish that the CCPA significantly increases loan applications to fintechs relative to banks, raising fintechs' market share by 19%. Consistent with improved screening due to applicants' greater willingness to share data with fintechs, fintechs engage in more individualized pricing, deny more applications, and increase their use of non-traditional data. In turn, fintechs can offer significantly lower loan rates.
 </details>
 
-_Presentations: FIRS 2023, Swiss Winter Conference in Financial Intermediation 2023, UBC Bureau of Asset Management Winter Finance Conference 2023_
+_Presentations: MoFIR 2023, BSE Summer Forum 2023, FIRS 2023, Swiss Winter Conference in Financial Intermediation 2023, UBC Bureau of Asset Management Winter Finance Conference 2023_
 
 
 
