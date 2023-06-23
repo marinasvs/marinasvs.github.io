@@ -17,9 +17,7 @@ From April to December 2022, I visited the Bank for International Settlements ([
 
 You can reach me at [marina.sanchez@eui.eu](mailto: marina.sanchez@eui.eu)
 
-**Some news:**
 
-* Our paper _Privacy regulation and fintech lending_ has been selected for presentation at the [14th annual UBC Bureau of Asset Management Winter Finance Conference][ubclink]{:target="_blank" rel="noopener"} in British Columbia on February 24th - 26th. 
 
 [euilink]: https://eui.eu/economics
 [giacomolink]: https://sites.google.com/view/giacomo-calzolari
@@ -27,5 +25,3 @@ You can reach me at [marina.sanchez@eui.eu](mailto: marina.sanchez@eui.eu)
 
 [bislink]: https://bis.org
 [bisihlink]: https://www.bis.org/about/bisih/locations/eurosystem.htm 
-
-[ubclink]: https://www.sauder.ubc.ca/thought-leadership/divisions/finance/conferences/winter-finance-conference
