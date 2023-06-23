@@ -7,8 +7,8 @@ author_profile: true
 
 ### Technology and credit market information asymmetries
 <details>
-<summary markdown='span'>Abstract: </summary>
-  This project explores the impact that technologically oriented lenders have on credit market information asymmetries. New to other studies in the literature, I focus on both adverse selection and moral hazard. The fintechs are better at screening, diminishing adverse selection, while traditional banks remain better at monitoring borrowers. The importance of moral hazard decreases the informational advantage coming from better screening and implies that the more technologically enabled player may not always have a market presence if it cannot properly discipline the borrower. 
+<summary>Abstract: </summary>
+*  This project explores the impact that technologically oriented lenders have on credit market information asymmetries. New to other studies in the literature, I focus on both adverse selection and moral hazard. The fintechs are better at screening, diminishing adverse selection, while traditional banks remain better at monitoring borrowers. The importance of moral hazard decreases the informational advantage coming from better screening and implies that the more technologically enabled player may not always have a market presence if it cannot properly discipline the borrower. 
 </details>
 
 
@@ -16,23 +16,17 @@ _Presentations: Symposium of the Spanish Economic Association (Valencia, 2022), 
 
 
 
+### Privacy regulation and fintech lending 
+with [Sebastian Doerr][doerrlink]{:target="_blank" rel="noopener"}, [Leonardo Gambacorta][gambacortalink]{:target="_blank" rel="noopener"} and [Luigi Guiso][guisolink]{:target="_blank" rel="noopener"}
+
 <details>
-<summary>
-*** Privacy regulation and fintech lending ***
-&emsp;with [Sebastian Doerr][doerrlink]{:target="_blank" rel="noopener"}, [Leonardo Gambacorta][gambacortalink]{:target="_blank" rel="noopener"} and [Luigi Guiso][guisolink]{:target="_blank" rel="noopener"}
-
-&emsp; Abstract: 
-
-&emsp; _Presentations: 14th annual UBC Bureau of Asset Management Winter Finance Conference, HEC Paris Conference on Banking in the Age of Challenges (Paris, 2022), OCC Symposium on the Implications of Financial Technology for Banking (Washington D.C., 2022), Bank for International Settlements research meeting (Basel, 2022)._
-
-</summary>
-
-
-
-Many regulators have introduced privacy protection legislation to accommodate consumers' demand for privacy. To investigate how such regulation shapes loan market outcomes, we build a parsimonious screening model with banks and fintechs. Fintechs have a superior technology to screen with data, but consumers dislike sharing their data with fintechs. Exploiting the introduction of the California Consumer Privacy Act we provide empirical support for the predictions of the model in the US mortgage market. Privacy protection regulation leads to an increase in loan applications with fintechs and lower interest rates on loans originated by fintechs. Fintechs also make greater use of non-traditional data to improve screening and deny more applications. Results are robust to the inclusion of granular time-varying fixed effects and hold within census tracts at the border of California with its neighboring states.
+<summary>Abstract </summary>
+> Many regulators have introduced privacy protection legislation to accommodate consumers' demand for privacy. To investigate how such regulation shapes loan market outcomes, we build a parsimonious screening model with banks and fintechs. Fintechs have a superior technology to screen with data, but consumers dislike sharing their data with fintechs. Exploiting the introduction of the California Consumer Privacy Act we provide empirical support for the predictions of the model in the US mortgage market. Privacy protection regulation leads to an increase in loan applications with fintechs and lower interest rates on loans originated by fintechs. Fintechs also make greater use of non-traditional data to improve screening and deny more applications. Results are robust to the inclusion of granular time-varying fixed effects and hold within census tracts at the border of California with its neighboring states.
 </details>
 
-<p></p>
+_Presentations: FIRS 2023, Swiss Winter Conference in Financial Intermediation 2023, UBC Bureau of Asset Management Winter Finance Conference 2023_
+
+
 
 
 ### Assessing the impact of roundups on savings
