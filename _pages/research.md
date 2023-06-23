@@ -6,6 +6,7 @@ author_profile: true
 
 
 ### Technology and credit market information asymmetries
+<span style="color:coral"> Winner of the Young Economis Seminar at the 2022 Dubrovnik Economic Conference</span> 
 <details>
 <summary>Abstract: </summary>
 *  This project explores the impact that technologically oriented lenders have on credit market information asymmetries. New to other studies in the literature, I focus on both adverse selection and moral hazard. The fintechs are better at screening, diminishing adverse selection, while traditional banks remain better at monitoring borrowers. The importance of moral hazard decreases the informational advantage coming from better screening and implies that the more technologically enabled player may not always have a market presence if it cannot properly discipline the borrower. 
@@ -18,6 +19,7 @@ _Presentations: Symposium of the Spanish Economic Association (Valencia, 2022), 
 
 ### Privacy regulation and fintech lending 
 with [Sebastian Doerr][doerrlink]{:target="_blank" rel="noopener"}, [Leonardo Gambacorta][gambacortalink]{:target="_blank" rel="noopener"} and [Luigi Guiso][guisolink]{:target="_blank" rel="noopener"}
+<span style="color:coral"> Best paper award at FMARC 2023 </span> 
 
 <details>
 <summary>Abstract </summary>
