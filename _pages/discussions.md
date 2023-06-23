@@ -8,7 +8,7 @@ author_profile: true
 Selected conference discussions (email me for slides):
 
 ### 2023
-* [FMARC][fmarclink]{:target="_blank" rel="noopener"}: "Local Peer Influence on Corporate Payout Decisions" by Joshua Cave and Sandra Lancheros 
+* [FMARC][fmarc23link]{:target="_blank" rel="noopener"}: "Local Peer Influence on Corporate Payout Decisions" by Joshua Cave and Sandra Lancheros 
 
 ### 2022
 
