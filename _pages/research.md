@@ -6,7 +6,7 @@ author_profile: true
 
 
 ### Technology and credit market information asymmetries
-<span style="color:coral"> Winner of the Young Economis Seminar at the 2022 Dubrovnik Economic Conference</span> 
+<span style="color:coral"> Winner of the Young Economist Seminar at the 2022 Dubrovnik Economic Conference</span> 
 <details>
 <summary>Abstract: </summary>
 <small> This project explores the impact that technologically oriented lenders have on credit market information asymmetries. New to other studies in the literature, I focus on both adverse selection and moral hazard. The fintechs are better at screening, diminishing adverse selection, while traditional banks remain better at monitoring borrowers. The importance of moral hazard decreases the informational advantage coming from better screening and implies that the more technologically enabled player may not always have a market presence if it cannot properly discipline the borrower.</small>
