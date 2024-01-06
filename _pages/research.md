@@ -21,7 +21,7 @@ with [Sebastian Doerr][doerrlink]{:target="_blank" rel="noopener"}, [Leonardo Ga
 
 <style>
   .line-break {
-    margin-bottom: 10px; /* Adjust the value to control the size of the space after the line break */
+    margin-bottom: 2px; /* Adjust the value to control the size of the space after the line break */
   }
 </style>
 
