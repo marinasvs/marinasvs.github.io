@@ -10,7 +10,10 @@ author_profile: true
 <details>
 <summary>Abstract: </summary>
 <small> This project explores the impact that technologically oriented lenders have on credit market information asymmetries. New to other studies in the literature, I focus on both adverse selection and moral hazard. The fintechs are better at screening, diminishing adverse selection, while traditional banks remain better at monitoring borrowers. The importance of moral hazard decreases the informational advantage coming from better screening and implies that the more technologically enabled player may not always have a market presence if it cannot properly discipline the borrower.</small>
-<br>
+br {
+   display: block;
+   margin: 10px 0;
+}
 </details>
 
 _Presentations: Symposium of the Spanish Economic Association (Valencia, 2022), Naples School of Economics and Finance workshop (Naples, 2022), Jornadas de Economia Industrial (Gran Canaria, 2022), Finance Forum PhD session (Santiago de Compostela, 2022), Young Economist Seminar at the Dubrovnik Economic Forum (Dubrovnik, 2022), Bank for International Settlements research meeting (Basel, 2022)._
