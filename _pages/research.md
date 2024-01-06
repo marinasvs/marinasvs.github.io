@@ -19,10 +19,13 @@ _Presentations: Symposium of the Spanish Economic Association (Valencia, 2022), 
 ### Privacy regulation and fintech lending 
 with [Sebastian Doerr][doerrlink]{:target="_blank" rel="noopener"}, [Leonardo Gambacorta][gambacortalink]{:target="_blank" rel="noopener"} and [Luigi Guiso][guisolink]{:target="_blank" rel="noopener"}
 
-br {
-            display: block;  
-            margin-top: 1; 
-}
+<style>
+  .line-break {
+    margin-bottom: 10px; /* Adjust the value to control the size of the space after the line break */
+  }
+</style>
+
+<br class="line-break">
 <span style="color:coral"> Best paper award at FMARC 2023 </span> 
 
 <details>
