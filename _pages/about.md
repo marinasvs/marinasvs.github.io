@@ -13,9 +13,7 @@ I am a Ph.D. candidate in Economics at the European University Institute ([EUI][
 
 I study how technology and innovation affect the financial markets using industrial organization tools. My supervisors are [Giacomo Calzolari][giacomolink]{:target="_blank" rel="noopener"} and [Thomas Crossley][thomaslink]. 
 
-In November 2023 I am visiting the BI Norwegian Business School under the supervision of [Andreas Fagereng][fagerenglink]{:target="_blank" rel="noopener"}, and I am collaborating with coauthors at the Norges Bank. 
-
-From April to December 2022, I visited the Bank for International Settlements ([BIS][bislink]{:target="_blank" rel="noopener"}) as a Ph.D. Fellow. I contributed to the work of the Innovation and Digital Economy Unit and of the [Innovation Hub][bisihlink]{:target="_blank" rel="noopener"}. 
+During my Ph.D., I have been a Fellow at the ([BIS][bislink]{:target="_blank" rel="noopener"}) in the Innovation and Digital Economy Unit and in the [Innovation Hub][bisihlink]{:target="_blank" rel="noopener"}, and I visited [Andreas Fagereng][fagerenglink]{:target="_blank" rel="noopener"} at the BI Norwegian Business School.
 
 You can reach me at [marina.sanchez@eui.eu](mailto: marina.sanchez@eui.eu)
 
